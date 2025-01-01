@@ -1,0 +1,6 @@
+com\tareas\api_gateway\config\GatewayConfig.class
+com\tareas\api_gateway\ApiGatewayApplication.class
+com\tareas\api_gateway\services\JwtUtils.class
+com\tareas\api_gateway\ServletInitializer.class
+com\tareas\api_gateway\config\AuthenticationFilter.class
+com\tareas\api_gateway\config\RouterValidator.class

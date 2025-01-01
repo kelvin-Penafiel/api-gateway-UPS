@@ -1,0 +1,5 @@
+
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ò…©Á2
+o
+java:S3305"MInject this field value directly into "routes", the only method that uses it.(ªúÍıÿÿÿÿ8Ş‹©Á2
